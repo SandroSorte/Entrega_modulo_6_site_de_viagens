@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6oErArSkjGblTEs+APfrOgAjR2QywP+fZ5e4YRUhB6fzOy3F8FDmZdLqCWl4yFXaQYFqlUjCT7yO+YGLXZofAg==",
+  "dgSpecHash": "JgrEm2Ahjjb7oiTYLg3vR5109fQ1tTxw7+zOoSEFPybhT6V5zcwwENu4XWDens6EZ2IlcIjINPncQR4bc7y4QQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sandr\\OneDrive\\Documentos\\PROGRAMAÇÃO\\Modulo5\\Prototipo_modulo_5_site_de_viagens\\cNetMvc\\cNetMvc.csproj",
+  "projectFilePath": "C:\\Users\\sandr\\OneDrive\\Documentos\\PROGRAMAÇÃO\\Modulo6\\cNetMvc\\cNetMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sandr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sandr\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",

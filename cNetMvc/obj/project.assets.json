@@ -1042,11 +1042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\sandr\\OneDrive\\Documentos\\PROGRAMAÇÃO\\Modulo5\\Prototipo_modulo_5_site_de_viagens\\cNetMvc\\cNetMvc.csproj",
+      "projectUniqueName": "C:\\Users\\sandr\\OneDrive\\Documentos\\PROGRAMAÇÃO\\Modulo6\\cNetMvc\\cNetMvc.csproj",
       "projectName": "cNetMvc",
-      "projectPath": "c:\\Users\\sandr\\OneDrive\\Documentos\\PROGRAMAÇÃO\\Modulo5\\Prototipo_modulo_5_site_de_viagens\\cNetMvc\\cNetMvc.csproj",
+      "projectPath": "C:\\Users\\sandr\\OneDrive\\Documentos\\PROGRAMAÇÃO\\Modulo6\\cNetMvc\\cNetMvc.csproj",
       "packagesPath": "C:\\Users\\sandr\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\sandr\\OneDrive\\Documentos\\PROGRAMAÇÃO\\Modulo5\\Prototipo_modulo_5_site_de_viagens\\cNetMvc\\obj\\",
+      "outputPath": "C:\\Users\\sandr\\OneDrive\\Documentos\\PROGRAMAÇÃO\\Modulo6\\cNetMvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sandr\\AppData\\Roaming\\NuGet\\NuGet.Config"
